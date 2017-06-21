@@ -1,0 +1,41 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Build results
+**/bin/
+**/bin/*
+**/obj
+**/obj/*
+[Dd]ebug/
+WebApi/[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+**/[Bb]in/
+**/[Oo]bj/[Oo]bj/
+[Bb]in/
+msbuild.log
+msbuild.err
+msbuild.wrn
+**bin/Debug/netcoreapp1.1
+bin/Debug/netcoreapp1.1
+**[Oo]bj/[Oo]bj/
+WebApi/obj
